@@ -1,0 +1,17 @@
+body{
+   background-color: pink; 
+}
+.heading{
+    font-size: 30px;
+}
+.object1{
+    color: rgb(5, 1, 8);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15;
+}
+#camera{
+    border: rgb(10, 10, 1);
+    border-style: dotted;
+    width: 300;
+    height: 300;
+}
